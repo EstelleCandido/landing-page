@@ -1,0 +1,31 @@
+.card-white {
+	box-shadow: 8px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 10px;
+    padding: 30px;
+    background: white;
+    margin-top : 30px;
+}
+
+.card-white h2 {
+	margin-bottom: 30px;
+    margin-top: 0;
+}
+
+#introduction {
+	box-shadow: 8px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 10px;
+    padding: 30px;
+    background: rgb(172 225 235);
+    margin-top : 30px
+
+}
+
+#intro-bold{ 
+text-align: center;
+    font-weight: bold;
+     }
+
+#intro-justify {
+	text-align: justify;
+        font-weight: lighter;
+}
